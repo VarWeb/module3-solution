@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+}
+.navbar{
+    background-color:  	#A9A9A9;
+}
+h1{
+    font-family: 'Bangers', cursive;
+}
+.menu{
+    margin: 20px;
+}
+.nav-item, .menu, .menu-name{
+    text-align: center;
+}
+.menu-item{
+    background-color:  	#A9A9A9;
+    font-family: 'Bangers', cursive;
+    margin-bottom: 20px;
+}
